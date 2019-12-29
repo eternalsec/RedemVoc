@@ -1,5 +1,5 @@
-#REDEMVOUCHER-Gojek
-<font color="Blue" size="12px">Using:<br>
+REDEMVOUCHER-Gojek
+Cara Menggunakan :
   1. git clone https://github.com/eternalsec/RedemVoc
   2. cd RedemVoc
   3. php redem.php
